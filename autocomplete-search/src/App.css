@@ -1,0 +1,30 @@
+body{
+  background-color: white;
+  color: black;
+}
+.options{
+  text-align: left;
+}
+.searchButton{
+  height: 25px;
+  position: relative;
+  font-size: 10px;
+  border-radius: 0;
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+input{
+  background-color: white;
+  width: 350px;
+}
+.optionRow{
+  border: 0.1px black solid;
+  width: 350px;
+}
+.App{
+  position: absolute;
+  left: 250px;
+  top: 10px;
+  width: 1000px;
+}
